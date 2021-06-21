@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SelfMarketing</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_number">Contact Number</string>
+    <string name="hint_my_display_name">My Display Name</string>
+    <string name="hint_junior">Include Junior</string>
+    <string name="hint_immediate_start">Immediate Start</string>
+    <string name="hint_availability">Available from Date</string>
+    <string name="button_preview">Preview Message</string>
+    <string name="button_send_message">Send Message</string>
+</resources>
